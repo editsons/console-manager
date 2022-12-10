@@ -10,3 +10,7 @@ Press 'Ctrl + NumPad_Add' to open a new console.
     - shift console up/down
     - disjoin/join consoles
     - minimize/maximize/close all consoles
+
+# Known problems
+- Minimizing can cause a bug so that consoles can't be shown again.
+- Users without a numpad on their keyboard have trouble opening a new console.
